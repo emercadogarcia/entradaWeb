@@ -189,15 +189,109 @@ La robótica es una rama de la informática que se centra en el diseño, la cons
 En resumen, las máquinas utilizan una variedad de tecnologías para realizar sus tareas, incluyendo mecánica, electrónica, informática y robótica. Estas tecnologías se combinan para crear máquinas cada vez más avanzadas y capaces de realizar una variedad de tareas de forma automatizada.
 
 ### optimizar el anterior articulo aplicando SEO y storytelling
-¿Qué son las máquinas y cuáles son las tecnologías que utilizan? Las máquinas son dispositivos diseñados para realizar tareas específicas, desde la producción de bienes hasta la realización de tareas domésticas. A continuación, te contamos cuáles son las tecnologías más utilizadas en las máquinas y cómo se combinan para crear dispositivos cada vez más avanzados.
+°°°°°°°°°°°
 
-La mecánica es una de las tecnologías más utilizadas en las máquinas. La mecánica es la ciencia que estudia el movimiento y la fuerza, y se utiliza en una gran variedad de máquinas, desde las herramientas manuales hasta los robots industriales.
 
-La electrónica también es una tecnología importante en las máquinas. La electrónica se refiere al estudio de los dispositivos y circuitos eléctricos que se utilizan para controlar y automatizar las máquinas. Estos dispositivos incluyen circuitos integrados, sensores y actuadores.
+### Escaner / scanner ¿QUÉ SON Y CÓMO FUNCIONAN LOS ESCÁNERES OBD2?
+¿Qué es un scanner automotriz para qué sirve?
+¿Cuál es el mejor escáner de autos?
+¿Cuáles son los tipos de scanner automotriz?
+¿Que lee un scanner automotriz?
 
-La informática también juega un papel importante en las máquinas. La informática se refiere al estudio de la computación y el uso de computadoras para procesar, almacenar y transmitir información. La informática se utiliza en una variedad de máquinas, desde las computadoras personales hasta los robots industriales.
+¿Cómo activar el OBD?
+¿Cómo diagnosticar una falla mecanica?
+¿Cómo funciona un escáner OBD2?
+¿Cómo hacer un diagnóstico de un carro?
+¿Cómo leer los códigos de falla sin escáner?
 
-La robótica es una rama de la informática que se centra en el diseño, la construcción y el uso de robots. Los robots son máquinas programables que pueden realizar tareas de forma autónoma. Los robots industriales se utilizan en una variedad de aplicaciones, como la fabricación, la construcción y la exploración espacial.
+¿Cómo saber si mi coche tiene el sistema OBD 2?
+¿Cómo se conecta scanner?
+¿Cómo se diagnóstica la ECU?
+¿Cómo verificar el kilometraje real de un auto con scanner?
+¿Cuál es el mejor escáner de autos?
+¿Cuáles son los tipos de scanner automotriz?
+¿Cuándo se debe escanear un auto?
+¿Cuántas OBD tiene un coche?
+¿Cuánto cuesta escanear en AutoZone?
+¿Cuánto cuesta un escáner OBD2?
+¿Cuánto dura el escaneo de un auto?
+¿Cuánto vale la escaneada de un vehículo?
+¿Cuántos tipos de escáner hay y cuáles son?
+¿Dónde se conecta el scanner OBD?
+¿Dónde se pone el escáner al carro?
+¿Dónde tiene la entrada OBD2?
+¿Qué características tiene un escáner?
+¿Qué es OBD 1 y 2?
+¿Qué es un escáner completo?
+¿Qué es un scanner manual?
+¿Qué es y para qué sirve el scanner automotriz?
+¿Qué fallas detecta el escáner automotriz?
+¿Qué pasa si le falta tierra a la computadora del carro?
+¿Qué prueba se realiza para diagnosticar un motor?
+¿Que se detecta con un escáner?
 
-En resumen, las máquinas utilizan una variedad de tecnologías para realizar sus tareas, incluyendo mecánica, electrónica, informática y robótica. Estas tecnologías se combinan para crear dispositivos cada vez más avanzados y capaces de realizar una variedad de tareas de forma automatizada. En un futuro cercano, las máquinas y robots seguirán desempeñando un papel cada vez más importante en nuestras vidas y en la industria, abriendo nuevas posibilidades y mejorando nuestra calidad de vida.
+
+#### ¿Cómo activar el OBD?
+Para activar el OBD (Sistema de Diagnóstico en bordo) en tu vehículo, debes seguir estos pasos:
+
+Asegúrate de que tu vehículo esté en encendido.
+Localiza el conector OBD en tu vehículo. Por lo general, se encuentra debajo del tablero del lado del conductor.
+Conecta tu escáner OBD2 al conector.
+Sigue las instrucciones de tu escáner para activarlo.
+
+#### ¿Cómo diagnosticar una falla mecánica?
+Para diagnosticar una falla mecánica en tu vehículo, debes seguir estos pasos:
+
+Identifica los síntomas de la falla, como un ruido extraño, una pérdida de potencia o una luz de advertencia encendida.
+Utiliza un escáner OBD2 para obtener códigos de falla del sistema de tu vehículo.
+Utiliza una guía de códigos de falla para determinar la posible causa de la falla.
+Realiza las pruebas necesarias para confirmar la causa de la falla.
+Repara o reemplaza las piezas dañadas.
+
+#### ¿Cómo funciona un escáner OBD2?
+Un escáner OBD2 se conecta al conector OBD de tu vehículo y utiliza un software especializado para acceder a los datos del sistema de diagnóstico en bordo (OBD) de tu vehículo. Estos datos incluyen códigos de falla, información en tiempo real del motor y otros datos del sistema. Los escáneres OBD2 también pueden borrar códigos de falla y reiniciar los sistemas de tu vehículo.
+
+#### ¿Cómo hacer un diagnóstico de un carro?
+Para hacer un diagnóstico de un carro, debes seguir estos pasos:
+
+Identifica los síntomas de la falla, como un ruido extraño, una pérdida de potencia o una luz de advertencia encendida.
+Utiliza un escáner OBD2 para obtener códigos de falla del sistema de tu vehículo.
+Utiliza una guía de códigos de falla para determinar la posible causa de la falla.
+Realiza las pruebas necesarias para confirmar la causa de la falla.
+Repara o reemplaza las piezas dañadas.
+
+#### ¿Cómo leer los códigos de falla sin escáner?
+Es posible leer los códigos de falla sin un escáner utilizando el indicador de fallos de tu vehículo. Sin embargo, estos códigos son muy generales y no proporcionan la misma cantidad de información detallada que un escáner OBD2. Para leer los códigos de falla sin un escáner, debes seguir estos pasos:
+
+Asegúrate de que tu vehículo esté en encendido.
+Busca el indicador de fallos en tu tablero de instrumentos, generalmente se encuentra junto al velocímetro o el cuentakilómetros.
+Consulta el manual del propietario para determinar cómo acceder al indicador de fallos.
+Toma nota de los códigos de falla que aparezcan en el indicador.
+Utiliza una guía de códigos de falla para determinar la posible causa de la falla.
+Es importante señalar que esta no es una forma precisa de diagnosticar, es recomendable utilizar un escáner OBD2 para obtener más información detallada y precisa sobre las fallas en el vehículo.
+
+
+/****************/
+¿Qué es un scanner automotriz para qué sirve?
+¿Cuál es el mejor escáner de autos?
+¿Cuáles son los tipos de scanner automotriz?
+¿Que lee un scanner automotriz?
+Un escáner automotriz es una herramienta especializada que se conecta al sistema de diagnóstico en bordo (OBD) de un vehículo. Su función principal es proporcionar información valiosa sobre el rendimiento del vehículo y detectar cualquier falla mecánica.
+
+En cuanto a cuál es el mejor escáner de autos, esto puede variar dependiendo de la marca y modelo del vehículo, así como de las necesidades y preferencias del usuario. Sin embargo, el escáner OBD2 es una opción muy común y versátil, ya que es compatible con la mayoría de los vehículos producidos después de 1996 y proporciona una gran cantidad de información detallada.
+
+Existen varios tipos de escáneres automotrices, algunos de los cuales incluyen: escáneres básicos, escáneres avanzados, escáneres de mano y escáneres conectados a una computadora. Los escáneres básicos proporcionan información básica sobre códigos de falla y los escáneres avanzados proporcionan información más detallada, como gráficos en tiempo real de los sensores del motor.
+
+Un escáner automotriz puede leer y acceder a una variedad de información en el vehículo, como códigos de falla, información en tiempo real del motor, estado de los sensores y sistemas, y puede también borrar códigos de falla y reiniciar los sistemas del vehículo.
+
+
+
+
+Edgar Mercado Garcia
+continuar
+Además, algunos escáneres automotrices también pueden proporcionar información sobre el estado de los sistemas de transmisión, frenos, climatización y otros sistemas importantes del vehículo. Algunos escáneres también pueden proporcionar información sobre el kilometraje real del vehículo, lo que es útil para verificar si el odómetro ha sido alterado o no.
+
+En resumen, un escáner automotriz es una herramienta valiosa para cualquier propietario de vehículo, ya que proporciona información detallada sobre el rendimiento y estado de su vehículo. El mejor escáner puede variar dependiendo de la marca y modelo del vehículo, así como de las necesidades y preferencias del usuario. Los escáneres automotrices también pueden variar en funciones y características, pero todos proporcionan información valiosa para el diagnóstico y reparación de problemas en un vehículo.
+/****************/
+
 
